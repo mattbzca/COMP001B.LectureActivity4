@@ -53,7 +53,17 @@ h2 {
 }
 p {
     color: white;
-    border: 2px solid black;
+    border-top: 1px solid white;
     text-indent: 1%;
     margin: 1% 1% 1% 1%;
+    width: 80%;
+}
+footer {
+    float: left;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
 }
